@@ -13,6 +13,8 @@ int main(){
             if (username[i] == username[j]){
                 count ++;
                 break;
+                /*If a duplicate is found, count is incremented
+                 by one, and the break immediately stops the inner loop.*/
             }
         }
     }
