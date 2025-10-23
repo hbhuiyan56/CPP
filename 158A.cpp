@@ -10,8 +10,7 @@ int main(){
     {
         cin >> scores[i] ;
     }
-    
-        target = scores[k-1];
+    target = scores[k-1];
     for ( j = 0; j < n; j++)
     {
         if (scores[j]>= target && scores[j] > 0){
