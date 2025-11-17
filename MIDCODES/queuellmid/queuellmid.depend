@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1763413834 source:g:\my drive\nsu drive\cse225lab\practice\queuellmid\main.cpp
+	<iostream>
+	"QueType.cpp"
+
+1763413834 g:\my drive\nsu drive\cse225lab\practice\queuellmid\quetype.cpp
+	<iostream>
+	"quetype.h"
+
+1763413834 g:\my drive\nsu drive\cse225lab\practice\queuellmid\quetype.h
+
+1763413834 source:g:\my drive\nsu drive\cse225lab\practice\queuellmid\quetype.cpp
+	<iostream>
+	"quetype.h"
+

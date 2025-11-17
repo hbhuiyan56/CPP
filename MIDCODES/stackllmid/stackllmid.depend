@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1763413307 source:g:\my drive\nsu drive\cse225lab\practice\stackllmid\main.cpp
+	<iostream>
+	<string>
+	"stacktype.cpp"
+
+1763413094 g:\my drive\nsu drive\cse225lab\practice\stackllmid\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1763413094 g:\my drive\nsu drive\cse225lab\practice\stackllmid\stacktype.h
+
+1763413094 source:g:\my drive\nsu drive\cse225lab\practice\stackllmid\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

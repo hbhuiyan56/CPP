@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1763409603 source:g:\my drive\nsu drive\cse225lab\practice\ulistmid\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+	"studentInfo.h"
+
+1763408597 source:g:\my drive\nsu drive\cse225lab\practice\ulistmid\unsortedtype.cpp
+	"unsortedtype.h"
+
+1763408584 g:\my drive\nsu drive\cse225lab\practice\ulistmid\unsortedtype.h
+
+1763408657 source:g:\my drive\nsu drive\cse225lab\practice\ulistmid\studentinfo.cpp
+	"studentInfo.h"
+
+1763408673 g:\my drive\nsu drive\cse225lab\practice\ulistmid\studentinfo.h
+	<bits/stdc++.h>
+
+1763408597 g:\my drive\nsu drive\cse225lab\practice\ulistmid\unsortedtype.cpp
+	"unsortedtype.h"
+

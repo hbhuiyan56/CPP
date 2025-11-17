@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1763411422 source:g:\my drive\nsu drive\cse225lab\practice\slistmid\sortedtype.cpp
+	"sortedtype.h"
+
+1763411422 g:\my drive\nsu drive\cse225lab\practice\slistmid\sortedtype.h
+
+1763411710 source:g:\my drive\nsu drive\cse225lab\practice\slistmid\main.cpp
+	<iostream>
+	"sortedtype.cpp"
+	"timeStamp.h"
+
+1763411422 g:\my drive\nsu drive\cse225lab\practice\slistmid\sortedtype.cpp
+	"sortedtype.h"
+
+1763411458 g:\my drive\nsu drive\cse225lab\practice\slistmid\timestamp.cpp
+	"timeStamp.h"
+
+1763411983 g:\my drive\nsu drive\cse225lab\practice\slistmid\timestamp.h
+	<iostream>
+
+1763411458 source:g:\my drive\nsu drive\cse225lab\practice\slistmid\timestamp.cpp
+	"timeStamp.h"
+

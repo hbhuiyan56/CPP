@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1763412796 source:g:\my drive\nsu drive\cse225lab\practice\queuearrmid\main.cpp
+	<iostream>
+	"quetype.cpp"
+
+1763412796 g:\my drive\nsu drive\cse225lab\practice\queuearrmid\quetype.cpp
+	"quetype.h"
+
+1763412796 g:\my drive\nsu drive\cse225lab\practice\queuearrmid\quetype.h
+
+1763412796 source:g:\my drive\nsu drive\cse225lab\practice\queuearrmid\quetype.cpp
+	"quetype.h"
+
